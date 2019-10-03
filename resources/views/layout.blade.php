@@ -21,7 +21,7 @@ Released   : 20140225
 <link href="css/fonts.css" rel="stylesheet" type="text/css" media="all" />
 
 <!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
-
+<link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
         <div id="header-wrapper">
@@ -45,5 +45,6 @@ Released   : 20140225
 <div id="copyright" class="container">
         <p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
     </div>
+<script src="/js/app.js"></script>
 </body>
 </html>
